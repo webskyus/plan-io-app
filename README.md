@@ -9,3 +9,15 @@
 - [Remix PWA](https://remix-pwa.run/)
 - [FSD Architectures](https://feature-sliced.design/docs/get-started/overview)
 - [ESLint / Prettier | The JavaScript Oxidation Compiler](https://oxc-project.github.io/)
+
+--- 
+
+# Instruction
+
+| Command      | Description              |
+|--------------|--------------------------|
+| pnpm install | install all dependencies |
+| pnpm dev     | run project              |
+| pnpm lint    | check with eslint        |
+| pnpm build   | build app                |
+| pnpm start   | run built app            |
