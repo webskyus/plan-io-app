@@ -1,7 +1,7 @@
-# PM Management Remix App ⛈️
+# PlanIO Remix App ⛈️
 
 - [Remix](https://remix.run/)
-- [Design](https://www.whiteui.store/revu)
+- [Design](https://ui8.net/cansaas/products/planio---to-do-list-productivity-app-ui-kit)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Shadcn / Tailwind](https://ui.shadcn.com/)
 - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
