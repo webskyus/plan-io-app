@@ -8,6 +8,9 @@
 - [AppWrite](https://appwrite.io/)
 - [Remix PWA](https://remix-pwa.run/)
 - [FSD Architectures](https://feature-sliced.design/docs/get-started/overview)
+- [Stripe](https://stripe.com/)
+- [Socket](https://socket.io/)
+- [Suparbase](https://supabase.com/)
 - [ESLint / Prettier | The JavaScript Oxidation Compiler](https://oxc-project.github.io/)
 
 --- 
