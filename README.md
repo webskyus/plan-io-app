@@ -4,14 +4,13 @@
 - [Design](https://ui8.net/cansaas/products/planio---to-do-list-productivity-app-ui-kit)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Shadcn / Tailwind](https://ui.shadcn.com/)
-- [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
-- [AppWrite](https://appwrite.io/)
+- [Drizzle ORM](https://orm.drizzle.team/)
 - [Remix PWA](https://remix-pwa.run/)
 - [FSD Architectures](https://feature-sliced.design/docs/get-started/overview)
 - [Stripe](https://stripe.com/)
 - [Socket](https://socket.io/)
 - [Suparbase](https://supabase.com/)
-- [Biome | Format / Lint](https://biomejs.dev/)
+- [BiomeJS | Format / Lint](https://biomejs.dev/)
 
 ---
 
