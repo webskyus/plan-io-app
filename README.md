@@ -9,7 +9,7 @@
 - [FSD Architectures](https://feature-sliced.design/docs/get-started/overview)
 - [Stripe](https://stripe.com/)
 - [Socket](https://socket.io/)
-- [Suparbase](https://supabase.com/)
+- [Supabase](https://supabase.com/)
 - [BiomeJS | Format / Lint](https://biomejs.dev/)
 
 ---
