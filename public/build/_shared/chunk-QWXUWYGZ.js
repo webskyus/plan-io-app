@@ -1,9 +1,5 @@
-import {
-  require_runtime
-} from "/build/_shared/chunk-K6PKGSTD.js";
-import {
-  __toESM
-} from "/build/_shared/chunk-PNG5AS42.js";
+import { require_runtime } from "/build/_shared/chunk-K6PKGSTD.js";
+import { __toESM } from "/build/_shared/chunk-PNG5AS42.js";
 
 // hmr-runtime:remix:hmr
 var import_runtime = __toESM(require_runtime());
@@ -15,15 +11,15 @@ window.$RefreshReg$ = (type, id) => {
 };
 window.$RefreshReg$ = prevRefreshReg;
 window.$RefreshSig$ = prevRefreshSig;
-window.$RefreshSig$ = import_runtime.default.createSignatureFunctionForTransform;
+window.$RefreshSig$ =
+  import_runtime.default.createSignatureFunctionForTransform;
 window.$RefreshRuntime$ = import_runtime.default;
 window.$RefreshRuntime$.injectIntoGlobalHook(window);
-window.$RefreshReg$ = () => {
-};
+window.$RefreshReg$ = () => {};
 window.$RefreshSig$ = () => (type) => type;
 if (!window.__hmr__) {
   window.__hmr__ = {
-    contexts: {}
+    contexts: {},
   };
 }
 function createHotContext(id) {
@@ -60,7 +56,7 @@ function createHotContext(id) {
         return true;
       }
       return false;
-    }
+    },
   };
   if (window.__hmr__.contexts[id]) {
     window.__hmr__.contexts[id].dispose();
@@ -69,7 +65,5 @@ function createHotContext(id) {
   return hot;
 }
 
-export {
-  createHotContext
-};
-//# sourceMappingURL=/build/_shared/chunk-YGG66OMB.js.map
+export { createHotContext };
+//# sourceMappingURL=/build/_shared/chunk-QWXUWYGZ.js.map

@@ -11,14 +11,14 @@
 - [Stripe](https://stripe.com/)
 - [Socket](https://socket.io/)
 - [Suparbase](https://supabase.com/)
-- [ESLint / Prettier | The JavaScript Oxidation Compiler](https://oxc-project.github.io/)
+- [Biome | Format / Lint](https://biomejs.dev/)
 
---- 
+---
 
 # Instruction
 
 | Command      | Description              |
-|--------------|--------------------------|
+| ------------ | ------------------------ |
 | pnpm install | install all dependencies |
 | pnpm dev     | run project              |
 | pnpm lint    | check with eslint        |

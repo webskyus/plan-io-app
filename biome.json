@@ -1,0 +1,25 @@
+{
+	"$schema": "https://biomejs.dev/schemas/1.5.3/schema.json",
+	"organizeImports": {
+		"enabled": true
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"recommended": true
+		}
+	},
+	"files": {
+		"include": ["app/**/*.js", "app/**/*.jsx", "app/**/*.ts", "app/**/*.tsx"]
+	},
+	"formatter": {
+		"indentStyle": "tab",
+		"lineWidth": 80
+	},
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "single",
+			"trailingComma": "es5"
+		}
+	}
+}
