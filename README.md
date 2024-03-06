@@ -3,7 +3,7 @@
 - [Remix](https://remix.run/)
 - [Design](https://ui8.net/cansaas/products/planio---to-do-list-productivity-app-ui-kit)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Shadcn / Tailwind](https://ui.shadcn.com/)
+- [Tailwind | shadcn/ui](https://ui.shadcn.com/)
 - [Drizzle ORM](https://orm.drizzle.team/)
 - [Remix PWA](https://remix-pwa.run/)
 - [FSD Architectures](https://feature-sliced.design/docs/get-started/overview)
