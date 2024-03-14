@@ -1,14 +1,14 @@
 # PlanIO Remix App ⛈️
 
 - [Remix](https://remix.run/)
-- [Design](https://ui8.net/cansaas/products/planio---to-do-list-productivity-app-ui-kit)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind | shadcn/ui](https://ui.shadcn.com/)
 - [Drizzle ORM](https://orm.drizzle.team/)
 - [Remix PWA](https://remix-pwa.run/)
+- [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
 - [FSD Architectures](https://feature-sliced.design/docs/get-started/overview)
 - [Stripe](https://stripe.com/)
-- [Socket](https://socket.io/)
+- [socket.io](https://socket.io/)
 - [Supabase](https://supabase.com/)
 - [BiomeJS | Format / Lint](https://biomejs.dev/)
 
