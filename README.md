@@ -8,7 +8,7 @@
 - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
 - [FSD Architectures](https://feature-sliced.design/docs/get-started/overview)
 - [Stripe](https://stripe.com/)
-- [socket.io](https://socket.io/)
+- [Socket.io](https://socket.io/)
 - [Supabase](https://supabase.com/)
 - [BiomeJS | Format / Lint](https://biomejs.dev/)
 
