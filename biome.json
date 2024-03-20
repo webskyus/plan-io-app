@@ -10,7 +10,7 @@
 		}
 	},
 	"files": {
-		"include": ["app/**/*.js", "app/**/*.jsx", "app/**/*.ts", "app/**/*.tsx"]
+		"include": ["src/**/*.js", "src/**/*.jsx", "src/**/*.ts", "src/**/*.tsx"]
 	},
 	"formatter": {
 		"indentStyle": "tab",
