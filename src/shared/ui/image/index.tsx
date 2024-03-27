@@ -1,16 +1,28 @@
-import React from 'react';
+import React, {FC} from 'react';
+import {placeholder} from "~/shared/lib/utils/constants";
 
-const Image = ({props}) => {
+interface Props {
+    key: string
+    url: string
+    alt: string
+    style: React.CSSProperties
+}
+
+const Image: FC<Props> = (props) => {
+    const {key, url, alt, style} = props;
+    const styles: React.CSSProperties = {
+        objectFit: 'cover',
+        transition: 'opacity 300ms ease-in-out',
+        width: '100%',
+        height: '100%',
+        ...style,
+    };
+
     return <img
-        key={"test"}
-        src={"https://i.pinimg.com/originals/cc/7a/d3/cc7ad3d3ba4e80853304bee2dc3015da.png" || placeholder}
-        alt="movie poster"
-        style={{
-            objectFit: 'cover',
-            transition: 'opacity 300ms ease-in-out',
-            width: '100%',
-            height: '100%',
-        }}
+        key={key}
+        src={url || placeholder}
+        alt={alt}
+        style={styles}
     />
 };
 
